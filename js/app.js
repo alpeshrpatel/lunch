@@ -15,7 +15,7 @@
         $scope.noticeType = "danger";
       }
       else {
-        var $foodItemsArray = $scope.foodItems.split(",");
+         var $foodItemsArray = $scope.foodItems.split(",");
         
           
         var $length = $foodItemsArray.length;
